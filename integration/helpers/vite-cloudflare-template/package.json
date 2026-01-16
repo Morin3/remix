@@ -15,7 +15,7 @@
     "@remix-run/cloudflare-pages": "2.10.3",
     "@remix-run/react": "2.10.3",
     "isbot": "^4.1.0",
-    "miniflare": "^3.20231030.4",
+    "miniflare": "^4.20250712.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -28,7 +28,7 @@
     "typescript": "^5.1.6",
     "vite": "5.1.3",
     "vite-tsconfig-paths": "^4.2.1",
-    "wrangler": "^3.24.0"
+    "wrangler": "^4.24.4"
   },
   "engines": {
     "node": ">=18.0.0"
